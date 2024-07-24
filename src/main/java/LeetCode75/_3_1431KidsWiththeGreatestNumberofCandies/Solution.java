@@ -1,4 +1,4 @@
-package LeetCode75._1431KidsWiththeGreatestNumberofCandies;
+package LeetCode75._3_1431KidsWiththeGreatestNumberofCandies;
 
 import java.util.ArrayList;
 import java.util.List;

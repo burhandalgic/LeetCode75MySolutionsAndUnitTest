@@ -1,4 +1,4 @@
-package LeetCode75._1071GreatestCommonDivisorofStrings;
+package LeetCode75._2_1071GreatestCommonDivisorofStrings;
 
 public class Solution {
 

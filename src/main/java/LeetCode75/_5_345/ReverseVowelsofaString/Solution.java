@@ -1,7 +1,6 @@
-package LeetCode75._345.ReverseVowelsofaString;
+package LeetCode75._5_345.ReverseVowelsofaString;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class Solution {

@@ -1,4 +1,4 @@
-package LeetCode75._605.CanPlaceFlowers;
+package LeetCode75._4_605CanPlaceFlowers;
 
 public class Solution {
 
