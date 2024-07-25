@@ -1,5 +1,4 @@
 package LeetCode75._1_1768MergeStringsAlternately;
-
 public class Solution {
         public String mergeAlternately(String word1, String word2) {
             int len1=word1.length();
@@ -13,18 +12,13 @@ public class Solution {
                     len1--;
                     i++;
                 }
-
                 if(len2>0){
                     result = result.concat(String.valueOf(word2.charAt(j)));
                     len2--;
                     j++;
                 }
-
             }
-
             return result;
-
         }
-
     }
 

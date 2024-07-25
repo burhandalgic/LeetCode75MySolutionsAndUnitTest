@@ -32,9 +32,6 @@ public class Solution {
                     nextEmty=false;
             }
 
-
-
-
             if (nextEmty&&preEmty&&flowerbed[i]==0) {
                 emptyPlace++;
                 flowerbed[i]=1;
