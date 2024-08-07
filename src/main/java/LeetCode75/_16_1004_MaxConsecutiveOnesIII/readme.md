@@ -1,4 +1,5 @@
 1004. Max Consecutive Ones III
+      Solved
       Medium
       Topics
       Companies
