@@ -1,19 +1,11 @@
-import LeetCode75._15_1456_MaximumNumberofVowelsinaSubstringofGivenLength.Solution;
-
-import java.util.Arrays;
+import LeetCode75._23_2352_EqualRowandColumnPairs.Solution;
 
 public class Main {
 
     public static void main(String[] args) {
-       int[] list = {1,2,3};
-        System.out.println(Arrays.toString(list));
-        bisey(list);
-        System.out.println(Arrays.toString(list));
+        Solution solution = new Solution();
+        int[][] arr = {{2, 1},{3, 32},{3, 32} };
+        System.out.println(solution.equalPairs(arr));
 
     }
-public static  void bisey (int[] a){
-        a[0] = 10;
-}
-
-
 }
